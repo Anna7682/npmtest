@@ -1,4 +1,4 @@
-import characterStatus from '../app';
+import characterStatus from '../js/app';
 
 test('healthy', () => {
   const character = {
